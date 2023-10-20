@@ -13,5 +13,5 @@ terraform {
 }
 
 provider "github" {
-  token = "your-token-here"
+  token = "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"
 }
